@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Descifrar</string>
+    <string name="instructions">Descifra la palabra usando todas las letras.</string>
+    <string name="skip">Saltar</string>
+    <string name="submit">Enviar</string>
+    <string name="score">Puntuación: %d</string>
+    <string name="word_count">%d de %d palabras</string>
+    <string name="enter_your_word">Ingrese su palabra</string>
+    <string name="congratulations">¡Felicidades!</string>
+    <string name="exit">Salir</string>
+    <string name="you_scored">Obtuviste: %d</string>
+    <string name="play_again">Juega de nuevo</string>
+    <string name="try_again">¡Intentar otra vez!</string>
+</resources>
